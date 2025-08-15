@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hello World! I'm khairul umam👋
 
 <!--
 **KHAIRUL-UMAM/khairul-umam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+__&#x1F646;An Informatics Engineering student passionate about learning and building__
 Here are some ideas to get you started:
+![happy birthday](https://media.giphy.com/media/eB49k2D4TH9b4RZguj/giphy.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
