@@ -22,5 +22,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
-#### connect with me
-![https://instagram.com/khairul_umamx](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+
+##### my Github stats
+![KHAIRUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulumam&show_icons=true&theme=radical)
+
