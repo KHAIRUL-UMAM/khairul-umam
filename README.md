@@ -1,6 +1,6 @@
-## Hi ther👋
+## Hello World! I'm khairul umam 👋
 
-![khairu lumam](img/github-header-banner%20(2).png)
+![khairulumam](img/github-header-banner%20(2).png)
 <!--
 **KHAIRUL-UMAM/khairul-umam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
